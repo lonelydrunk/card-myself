@@ -3,7 +3,7 @@ email: studying@duzui.onmicrosoft.com
 description: > 
 permalink: ':title/'
 baseurl: "/newspaper"
-url: "" 
+url: "https://lonelydrunk.github.io/newspaper/" 
 
 # Author settings
 author: lonelydrunk
@@ -11,15 +11,15 @@ author-pic: lonelydrunk.png
 about-author: 语文新闻小报制作。
 
 # Contact links
-email: 
-phone: 
-website: 
-linkedin: 
+email: studying@duzui.onmicrosoft.com
+phone: +86 15750801507
+website: https://lonelydrunk.github.io
+linkedin: #
 github: lonelydrunk
-twitter: 
-facebook: 
-instagram: 
-pinterest: 
+twitter: #
+facebook: #
+instagram: #
+pinterest: #
 
 # Newsletter
 mailchimp: 
