@@ -1,0 +1,46 @@
+title: 新闻小报
+email: studying@duzui.onmicrosoft.com
+description: > 
+permalink: ':title/'
+baseurl: "/newspaper"
+url: "" 
+
+# Author settings
+author: lonelydrunk
+author-pic: lonelydrunk.jpg
+about-author: 语文新闻小报制作。
+
+# Contact links
+email: 
+phone: 
+website: 
+linkedin: 
+github: lonelydrunk
+twitter: 
+facebook: 
+instagram: 
+pinterest: 
+
+# Newsletter
+mailchimp: 
+
+# Disqus
+discus_identifier: 
+
+# Tracker
+analytics: # Google Analytics
+
+# Paginate
+paginate: 4
+paginate_path: /page:num/
+
+# Build settings
+markdown: kramdown
+
+plugins:
+  - jekyll-paginate
+  - jekyll-feed
+  - jekyll-sitemap
+
+include: [_pages]
+exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock", "package-lock.json", "assets/css/sass/"]
