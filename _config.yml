@@ -31,7 +31,7 @@ discus_identifier:
 analytics: # Google Analytics
 
 # Paginate
-paginate: 4
+paginate: 1
 paginate_path: /page:num/
 
 # Build settings
